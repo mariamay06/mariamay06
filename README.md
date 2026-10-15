@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FCE7F3,100:F4A7C3&height=200&section=header&text=Hi,%20I'm%20Juneleve!%20♡&fontSize=38&fontColor=9D174D&animation=fadeIn&fontAlignY=45" width="100%" alt="Pastel pink animated banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FCE7F3,100:F4A7C3&height=200&section=header&text=Hi,%20I'm%20Maria!%20♡&fontSize=38&fontColor=9D174D&animation=fadeIn&fontAlignY=45" width="100%" alt="Pastel pink animated banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&duration=3000&pause=1000&color=D65B91&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning%2C+Creating%2C+Growing+%E2%99%A1" alt="Typing SVG"/>
