@@ -9,8 +9,8 @@
 
 🌸 *Welcome to my little corner of GitHub!* 🌸
 
-![Pastel Pink](https://img.shields.io/badge/Theme-Pastel%20Pink-F4A7C3?style=for-the-badge)
-![Developer](https://img.shields.io/badge/Aspiring-Developer-9D174D?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Github-Portfolio%20-F4A7C3?style=for-the-badge)
+![Github](https://img.shields.io/badge/MyRepositories-VisitMyWebsite-9D174D?style=for-the-badge)
 
 </div>
 
@@ -69,15 +69,7 @@ sensors and a microcontroller.
 )
 - 💧 **AquaSense:** [View Repository](https://github.com/mariamay06/AquaSense)
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=D65B91&icon_color=D65B91&text_color=9D174D&bg_color=FCE7F3&border_color=F4A7C3&hide_border=false" alt="GitHub statistics" width="95%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=D65B91&text_color=9D174D&bg_color=FCE7F3&border_color=F4A7C3" alt="Most used languages" width="95%"/>
-
-</div>
 
 ## 💌 Connect With Me
 
