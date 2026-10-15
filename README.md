@@ -60,7 +60,7 @@ sensors and a microcontroller.
 
 ## 🚀 Deployments & Project Links
 
-> Replace the sample links below with your actual URLs.
+
 
 - 🌐 **Personal Portfolio:** [Visit Website](https://mariamay06.github.io/MariaMay_Portfolio/
 )
