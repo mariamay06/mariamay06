@@ -48,7 +48,7 @@ web development, and user interface design.
 A student-focused guide for school requirements, procedures, offices,
 and student services.
 
-### 🩺 KioskPro Tech Services
+### 🩺 Smart Health Screening Kiosk
 
 A health kiosk project concept for basic health monitoring and
 technical services.
